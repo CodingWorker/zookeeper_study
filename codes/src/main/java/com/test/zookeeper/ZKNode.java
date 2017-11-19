@@ -3,7 +3,7 @@ package com.test.zookeeper;
 import com.test.zookeeper.config.ZKConfig;
 
 /**
- * Created by daiya on 2017/9/7.
+ *
  */
 public class ZKNode {
     private ZKConfig zkConfig;
